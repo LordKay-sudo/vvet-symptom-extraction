@@ -1,0 +1,5 @@
+{"message": "My cow has not been eating since yesterday and she is breathing very fast.", "expected": {"reduced_appetite": "yes", "rapid_breathing": "yes"}}
+{"message": "There's foam coming from her nose and she can't get up.", "expected": {"froth_nose_mouth": "yes", "unable_to_stand": "yes"}}
+{"message": "I think the eyes look a bit cloudy but I'm not sure. She has mbandabvu under the ear.", "expected": {"cloudy_eye": "not_sure", "swelling": "yes"}}
+{"message": "The calf is fine, just lots of ticks on the ears.", "expected": {"ticks": "yes"}}
+{"message": "Mombe yangu haisi kudya, and her urine is dark like tea.", "expected": {"reduced_appetite": "yes", "red_urine": "yes"}}
